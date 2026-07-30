@@ -1,0 +1,6 @@
+{
+  "name": "正交实验与方差分析智能实验室",
+  "description": "正交实验设计与方差分析智能实验室，提供知识引导、交互拟合沙盒、ANOVA 逐步推导、残差诊断、经典案例、Python 代码生成与 AI 智能优化报告。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
